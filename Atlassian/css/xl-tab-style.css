@@ -1,0 +1,113 @@
+@media only screen and (min-width:1024px) and (max-width:1440px)
+
+{
+    html, body{
+    overflow-x: hidden;
+    }
+    body{
+    overflow-y: hidden;
+    }
+    body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    }
+    .main
+    {
+    width: 100%;
+    margin : 0 auto;
+    padding: 0;
+    }
+    /* style for header */
+    .main-header
+    {
+    width: 100%;
+    }
+    .main-header-container
+    {
+    margin: 0 auto;
+    }
+    .main-header-container-left
+    {
+    margin: 0 30px;
+    }
+    .main-header-product-container
+    {
+    width: 90px;
+    }
+    .main-header-for-team-container,
+    .main-header-support-container
+    {
+    width: 95px;
+    }
+    .main-header-text
+    {
+    margin: 0 5px 0 0;
+    }
+    .main-header-icon
+    {
+    margin: 0 0;
+    }
+    .main-header-right-btn-2
+    {
+    padding: 0 5px;
+    }
+    .main-header-right-btn-1
+    button
+    {
+    padding: 0;
+    }
+    .main-header-right-btn-3
+    button
+    {
+    padding: 0;
+    }
+    /* style for body */
+    .main-body-small-container-1
+    {
+    margin: 0 230px;
+    width: 550px;
+    }
+    .main-body-con-2-small
+    {
+    padding: 0;
+    margin: 0 170px;
+    }
+    .main-body-con-2-small-left
+    {
+    width: 150px;
+    }
+    .main-body-con-2-small-right
+    {
+    width: 450px;
+    margin: 30px 55px;
+    }
+    .main-body-container-5
+    {
+    margin: 0 30px;
+    }
+    .main-body-con-5-left
+    {
+    width: 300px;
+    }
+    .main-body-con-5-right
+    {
+    width: 700px;
+    }
+    .mbc-5-right-top-left,.mbc-5-right-top-right
+    {
+    width: 300px;
+    padding:40px 25px 0 25px;
+    }
+    .mbc-5-right-bottom
+    {
+    width: 680px;
+    }
+    .main-body-container-6
+    {
+    margin: 0 auto;
+    }
+    .mbc-6-small-con
+    {
+    margin: 0 10px;
+    }
+}

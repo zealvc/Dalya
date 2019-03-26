@@ -38,15 +38,7 @@
     }
     .mh2-button
     {
-        margin-left: 480px;
-    }
-    .main-body-con-1
-    {
-        background-image: url(../res/img/Home-Page-Hero-Mobile-White@2x-latest.jpg);
-        /* background-size: contain; */
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
+        margin-left: 460px;
     }
     .mbc-1-small-con
     {
@@ -70,17 +62,16 @@
     {
         display: none;
     }
-
     .mbc-2-small-con
     {
-        margin: 0 auto;
-        width: 525px;
+        margin: 0 180px;
         text-align: center;
     }
     .mbc-2-small-con
     p
     {
-        font-size: 40px;
+        font-size: 30px;
+        width: 440px;
     }
     .main-body-con-3-1
     {
@@ -207,7 +198,7 @@
     }
     .mfc-1
     {
-        margin: 0 20px;
+        margin: 0 10px;
         padding-top: 20px;
         display: block;
     }
@@ -262,7 +253,8 @@
     .mbc-3-sc-right-right,
     .mbc-3-sc-right,
     .mbc-3-small-con,
-    .main-body-con-3
+    .main-body-con-3,
+    .mfc-2-b1-1
     {
         display: none;
     }

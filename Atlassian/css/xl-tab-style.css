@@ -108,11 +108,11 @@
     }
     .main-body-container-6
     {
-    margin: 0 auto;
+        margin: 0 auto;
     }
     .mbc-6-small-con
     {
-        margin: 50px 20px;
+        margin: 50px 30px;
     }
     .main-body-con-8-small
     {
@@ -124,10 +124,10 @@
         padding-left: 30px;
     }
     .main-body-container-9
-    h1
     {
-        width: 400px;
-        text-align: center;
+        width: 90%;
+        height: 5px;
+        border-bottom: 2px solid #DFE1E5;
     }
     .mbc-10-small-con
     h1
@@ -204,21 +204,21 @@
     }
     .main-footer-container,.main-footer
     {
-        height: 570px;
+        height: 480px;
         background-color: #F4F5F7;
     }
     .mfc-top
     {
         margin: 0 60px;
-        height: 450px;
+        height: 380px;
     }
     .mfc-top-box-1,.mfc-top-box-2,.mfc-top-box-5
     {
-        width: 18%;
+        width: 170px;
     }
     .mfc-top-box-4,.mfc-top-box-3
     {
-        width: 15%;
+        width: 160px;
         margin-right: 40px;
     }
     .mfc-bottom
@@ -235,5 +235,14 @@
     {
         margin-right: 60px;
         padding: 0;
+    }
+    .customer-logo-1,.mhc-ri-4,.mhc-ri-5
+    {
+        display: none;
+    }
+    .main-body-container-9
+    h1
+    {
+        display: none;
     }
 }

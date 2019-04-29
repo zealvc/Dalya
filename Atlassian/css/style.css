@@ -224,13 +224,6 @@ button
     text-align: center;
     padding-top: 30px;
 }
-/* .main-body-container-4
-{
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;
-    height:38px ;
-} */
 .main-body-con-3-small-line
 {
     height: 38px;
@@ -377,7 +370,7 @@ button
 {
     display: flex;
     float: left;
-    width: 181px;
+    width: 200px;
     height: 181px;
     margin-top: 30px;
 }
@@ -614,6 +607,11 @@ a
     display: flex;
     margin-left: 200px;
 }
+.mfc-top-ri-ri,.mfc-1-top-ri-le,
+.mfc-1-top-right
+{
+    display: flex;
+}
 .mfc-top-box-1,.mfc-top-box-2,.mfc-top-box-3,.mfc-top-box-4,.mfc-top-box-5
 {
     width: 240px;
@@ -627,6 +625,12 @@ a
 .mfc-tb2-header,.mfc-tb3-header,.mfc-tb4-header,.mfc-tb5-header
 {
     margin-bottom: 30px;
+    color: #42526E;
+}
+.mfc-tb2-text,.mfc-tb3-text,.mfc-tb4-text,.mfc-tb5-text
+{
+    color: #505F79;
+    font-size: 14px;
 }
 .mfc-tb2-link,.mfc-tb3-link,.mfc-tb4-link,.mfc-tb5-link,a
 {
@@ -653,6 +657,7 @@ a
     display: flex;
     float: left;
     margin-right: 30px;
+    color: #505F79;
 }
 .mfc-bl-b1-icon-1
 {
@@ -664,9 +669,10 @@ a
     padding-top: 15px;
     margin-left: 8px;
 }
-.mfc-bl-box-2,.mfc-bl-box-3,.mfc-bl-box-3,.mfc-bl-box-4,.mfc-bl-box-5
+.mfc-bl-box-2,.mfc-bl-box-3,.mfc-bl-box-4,.mfc-bl-box-5
 {
     margin-left: 30px;
+    color: #505F79
 }
 .mfc-bottom-right
 {
@@ -678,4 +684,8 @@ a
 .mfc-br-icon
 {
     margin-right: 20px;
+}
+.customer-logo-1,.mhc-ri-4,.mhc-ri-5
+{
+    display: none;
 }

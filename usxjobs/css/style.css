@@ -173,6 +173,7 @@ p
     font-size: 20px;
     font-weight: bolder;
 }
+<<<<<<< HEAD
 .mbc-3-sc-1
 {
     display: flex;
@@ -189,6 +190,13 @@ p
     height: auto;
     position: relative;
     margin: 20px 20px;
+=======
+.mbc-3-box-1
+{
+    width: 315px;
+    height: auto;
+    position: relative;
+>>>>>>> 6d861d0a93b7e34377626621cd9dac852398af16
 }
 .mbc-3-img
 img
@@ -200,6 +208,7 @@ img
     margin: 0 20px;
     display: inherit ;
 }
+<<<<<<< HEAD
 .mbc-3-btn button
 {
     width: 330px;
@@ -216,6 +225,23 @@ img
     text-align: center;
     top: 68%;
     left: 0%;
+=======
+/* .mbc-3-btn
+{
+    width: 380px;
+    height: 38px;
+} */
+.mbc-3-btn button
+{
+    width: 380px;
+    background: #961326;
+    height: 38px;
+    border: none;
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+>>>>>>> 6d861d0a93b7e34377626621cd9dac852398af16
 }
 .mbc-3-btn
 a
@@ -225,6 +251,7 @@ a
     font-size: 16px;
     text-decoration: none;
 }
+<<<<<<< HEAD
 .mbc-3-text
 {
     width: 290px;
@@ -265,3 +292,5 @@ span
 {
     font-weight: bolder;
 }
+=======
+>>>>>>> 6d861d0a93b7e34377626621cd9dac852398af16

@@ -40,14 +40,14 @@
     }
     .mbc-2-small-con
     {
-        margin: 0 auto;
-        width: 525px;
+        margin: 0 250px;
         text-align: center;
     }
     .mbc-2-small-con
     p
     {
         font-size: 40px;
+        width: 550px;
     }
     .mbc-3-small-con
     {
@@ -151,5 +151,12 @@
         margin: 0 55px;
         white-space: nowrap;
     }
-
+    .mh2-icon,.mfc-3-right-1,
+    .main-body-con-3-1,
+    .mbc-1-sc-b1-1,
+    .mfc-2-b1-1
+    {
+        display: none;
+    }
+    
 } 

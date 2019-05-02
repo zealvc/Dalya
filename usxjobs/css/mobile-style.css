@@ -1,0 +1,407 @@
+@media only screen and (max-width:767px)
+{
+    html,body
+    {
+        overflow-x: hidden;
+    }
+    body
+    {
+        margin: 0 auto;
+        padding: 0;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+    .main-header
+    {
+        background-color: #961326;
+    }
+    .main-header-con
+    {
+        margin: 0 30px;
+        display: flex;
+    }
+    .logo
+    {
+        width: 130px;
+        margin-left: 20px;
+    }
+    .mhc-left
+    {
+        padding: 20px;
+    }
+    .mhc-right
+    {
+        display: flex;
+        margin-left: 40px;
+    }
+    .mhc-ri-le,.mhc-ri-ri
+    {
+        display: none;
+    }
+    .head-icon
+    {
+        display: flex;
+        margin-left: 10px;
+    }
+    .main-body
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .main-body-con-1
+    {
+        background-image: url(../res/img/HeroTruck-Freightliner-Zoom.webp);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
+    .mbc-1-small-con
+    {
+        width: 470px;
+        margin: 0;
+        padding-top: 180px;
+    }
+    .mbc-1-t1
+    {
+        width: 130px;
+        margin: 0 125px;
+        color: white;
+        font-size: 20px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t3
+    {
+        width: 250px;
+        text-align: center;
+        margin: 0 60px;
+        color: white;
+        font-size: 20px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t2
+    {
+        width: 150px;
+        margin: 0 115px;
+        color: white;
+        font-size: 50px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t4
+    {
+        width: 200px;
+        text-align: center;
+        margin: 0 80px;
+        color: white;
+        font-size: 15px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-line
+    {
+        border-top: 4px solid  rgba(255,255,255,.5);
+        width: 160px;
+        margin: 20px 100px;
+    }
+    .mbc-1-btn1
+    {
+        margin: 0 5px;
+        width: 160px;
+        height: 45px;
+        background: none;
+        border: 2px solid white;
+    }
+    .mbc-1-button
+    {
+        margin : 25px 15px;
+    }
+    .mbc-1-button
+    a
+    {
+        text-decoration: none;
+        color: white;
+        font-weight: bolder;
+    }
+    .mbc-1-btn2
+    {
+        margin: 0 5px;
+        width: 160px;
+        height: 45px;
+        background: #961326;
+        border: none;
+    }
+    .mbc-2-small-con
+    {
+        display: flex;
+        margin: 0 50px;
+        width: 430px;
+    }
+    .mbc-2-line
+    {
+        width: 15px;
+        border-top: 4px solid #961326;
+        margin: 25px 15px;
+    }
+    
+    .mbc-2-text
+    p
+    {
+        font-size: 18px;
+        font-weight: bolder;
+    }
+    .main-body-con-3
+    {
+        display: none;
+    }
+    .main-body-con-3s
+    {
+        display: block;
+    }
+    .mbc-3s-sc-1,.mbc-3s-sc-2,.mbc-3s-sc-3
+    {
+        display: flex;
+        height: 250px;
+        margin: 0 auto;
+    }
+    
+    .mbc-3s-box-1,.mbc-3s-box-2,.mbc-3s-box-3
+    {
+        width: 140px;
+        height: auto;
+        position: relative;
+        margin: 20px 20px;
+    }
+    .mbc-3s-img
+    img
+    {
+        width: 130px;
+    }
+    .mbc-3s-img
+    {
+        margin: 0 20px;
+        display: inherit ;
+    }
+    .mbc-3s-btn button
+    {
+        width: 145px;
+        background: #961326;
+        height: 26px;
+        border: none;
+        text-align: center;
+    }
+    .mbc-3s-btn
+    {
+        width: 215px;
+        height: 34px;
+        position: absolute;
+        text-align: center;
+        top: 48%;
+        left: -16%;
+    }
+    .mbc-3s-btn
+    a
+    {
+        color: white;
+        font-weight: bolder;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .mbc-3s-text
+    {
+        margin: 20px 0px 0px 20px;
+    }
+    .mbc-3s-text 
+    p
+    {
+        color: #961326;
+        text-align: center;
+        margin: 0 auto;
+        font-weight: bolder;
+        font-size: 17px;
+    }
+    .main-body-con-4
+    {
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+    }
+    .mbc-4-left
+    {
+        width: 100%;
+    }
+    .mbc-4-img
+    img
+    {
+        width: 100%;
+        height: 210px;
+    }
+    .mbc-4-right
+    {
+        width: 100%;
+        height: 180px;
+        background-color: black;
+    }
+    .mbc-4-text
+    {
+        width: 310px;
+        color: white;
+        font-size: 18px;
+        margin: 0;
+        padding: 15px 30px;
+    }
+    .mbc-4-text
+    h3
+    {
+        margin: 0;
+    }
+    span
+    {
+        font-weight: bolder;
+    }
+    .main-body-con-5
+    {
+        display: none;
+    }
+    .main-body-con-5s
+    {
+        display: block;
+    }
+    .mbc-5s-text
+    {
+        width: 310px;
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    .mbc-5s-text
+    p
+    {
+        font-size: 19px;
+        color: #961326;
+    }
+    ul
+    {
+        padding-left: 18px;
+    }
+    ul li
+    {
+        margin: 10px 0;
+        font-size: 17px;
+    }
+    .main-body-con-6
+    {
+        margin: 0 auto;
+        width: 100%;
+        height: 140px;
+    }
+    .mbc-6-small-con
+    {
+        margin: 0 30px;
+        padding: 29px 0;
+    }
+    .mbc-6-box
+    {
+        border: solid #961326 1px;
+        width: 310px;
+        height: 80px;
+    }
+    .mbc-6-box
+    p
+    {
+        font-size: 12px;
+        font-weight: lighter;
+        text-align: center;
+        margin: 15px auto;
+        color: rgba(0,0,0,0.5);
+    }
+    .main-footer
+    {
+        width: 100%;
+        height: 140px;
+        background-color: lightgrey;
+    }
+    .main-footer-con
+    {
+        display: none;
+    }
+    .main-footer-con-1
+    {
+        display: block;
+    }
+    .mfc-2s
+    {
+        display: flex;
+        margin-left: 20px;
+    }
+    .mfc-2s
+    p
+    {
+        font-size: 12px;
+        margin: 5px 0; 
+        white-space: nowrap; 
+    }
+    .mfc-2s
+    a
+    {
+        text-decoration: none;
+    }
+    .mfc-3s
+    {
+        display: flex;
+        margin-left: 20px;
+    }
+    .mfc-3s
+    p
+    {
+        font-size: 12px;
+        margin: 5px 0; 
+        white-space: nowrap; 
+    }
+    .mfc-3s
+    a
+    {
+        text-decoration: none;
+    }
+    .link-1
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .line-1
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .link-2
+    {
+        color: #961326;
+    }
+    .link-3
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .mfc-1
+    {
+        display: flex;
+        padding: 20px 120px;
+    }
+    .mfc-4s
+    a
+    {
+        text-decoration: none;
+    }
+    .mfc-4s
+    p
+    {
+        font-size: 12px;
+        margin: 5px 0;
+    }
+    .mfc-4s
+    {
+        display: flex;
+        margin-left: 20px;
+    }
+    .facebook,.twitter,.youtube,.instagram
+    {
+        margin: 0 10px;
+    }
+    .mfc-2,.mfc-3
+    {
+        display: none;
+    }
+}

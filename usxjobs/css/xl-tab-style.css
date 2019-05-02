@@ -1,0 +1,399 @@
+@media only screen and (min-width:1024px) and (max-width:1365px)
+{
+    html,body
+    {
+        overflow-x: hidden;
+    }
+    body
+    {
+        margin: 0 auto;
+        padding: 0;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+    .main-header
+    {
+        background-color: #961326;
+    }
+    .main-header-con
+    {
+        margin: 0 100px;
+        display: flex;
+    }
+    .logo
+    {
+        width: 85px;
+        margin-top: 10px;
+    }
+    .mhc-left
+    {
+        padding: 20px;
+    }
+    .mhc-right
+    {
+        display: flex;
+        margin-left: 60px;
+    }
+    .mhc-text
+    {
+        color: white;
+        font-weight: bolder;
+        font-size: 13px;
+    }
+    .mhc-text-1
+    {
+        color: rgba(255,255,255,.5);
+        margin: 0 3px;
+    }
+    .mhc-ri-ri
+    button
+    {
+        background-color: black;
+        height: 60px;
+        width: 100px;
+        border: none;
+        margin: 0 5px;
+    }
+    .mhc-ri-ri
+    a
+    {
+        color: white;
+        font-weight: bolder;
+        text-decoration: none;
+        font-size: 13px;
+    }
+    .mhc-ri-le
+    {
+        display: flex;
+        float: left;
+        margin: 15px 0;
+    }
+    .mhc-ri-ri
+    {
+        display: flex;
+        float: left;
+        margin: 10px 0;
+    }
+    .main-body
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .main-body-con-1
+    {
+        background-image: url(../res/img/HeroTruck-Freightliner-Zoom.webp);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
+    .mbc-1-small-con
+    {
+        width: 470px;
+        margin: 0px 270px;
+        padding-top: 180px;
+    }
+    .mbc-1-t1
+    {
+        width: 260px;
+        margin: 0 auto;
+        color: white;
+        font-size: 40px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t3
+    {
+        width: 450px;
+        text-align: center;
+        margin: 0 auto;
+        color: white;
+        font-size: 40px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t2
+    {
+        width: 300px;
+        margin: 0 auto;
+        color: white;
+        font-size: 100px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-t4
+    {
+        width: 360px;
+        text-align: center;
+        margin: 0 auto;
+        color: white;
+        font-size: 25px;
+        text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+    }
+    .mbc-1-line
+    {
+        border-top: 4px solid  rgba(255,255,255,.5);
+        width: 160px;
+        margin: 20px 155px;
+    }
+    .mbc-1-btn1
+    {
+        margin: 0 5px;
+        width: 160px;
+        height: 45px;
+        background: none;
+        border: 2px solid white;
+    }
+    .mbc-1-button
+    {
+        margin : 25px 60px;
+    }
+    .mbc-1-button
+    a
+    {
+        text-decoration: none;
+        color: white;
+        font-weight: bolder;
+    }
+    .mbc-1-btn2
+    {
+        margin: 0 5px;
+        width: 160px;
+        height: 45px;
+        background: #961326;
+        border: none;
+    }
+    .mbc-2-small-con
+    {
+        display: flex;
+        margin: 0 290px;
+        width: 430px;
+    }
+    .mbc-2-line
+    {
+        width: 35px;
+        border-top: 3px solid #961326;
+        margin: 55px 15px;
+    }
+    
+    .mbc-2-text
+    p
+    {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .mbc-3-sc-1
+    {
+        display: flex;
+        margin: 0 auto;
+    }
+    .mbc-3-sc-2
+    {
+        display: flex;
+        margin: 0 auto;
+    }
+    .mbc-3-box-1,.mbc-3-box-2,.mbc-3-box-3
+    {
+        width: 190px;
+        height: auto;
+        position: relative;
+        margin: 20px 75px;
+    }
+    .mbc-3-img
+    img
+    {
+        width: 152px;
+    }
+    .mbc-3-img
+    {
+        margin: 0 20px;
+        display: inherit ;
+    }
+    .mbc-3-btn button
+    {
+        width: 165px;
+        background: #961326;
+        height: 34px;
+        border: none;
+        text-align: center;
+    }
+    .mbc-3-btn
+    {
+        width: 165px;
+        height: 38px;
+        position: absolute;
+        text-align: center;
+        top: 52%;
+        left: 7%;
+    }
+    .mbc-3-btn
+    a
+    {
+        color: white;
+        font-weight: bolder;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .mbc-3-text
+    {
+        width: 190px;
+        margin: 20px 0px 0px 0px;
+    }
+    .mbc-3-text 
+    p
+    {
+        color: #961326;
+        text-align: center;
+        margin: 0 auto;
+        font-weight: bolder;
+        font-size: 17px;
+    }
+    .main-body-con-4
+    {
+        margin: 0 auto;
+        width: 100%;
+        display: flex;
+    }
+    .mbc-4-left
+    {
+        width: 484px;
+        height: 272px;
+    }
+    .mbc-4-img
+    img
+    {
+        width: 484px;
+        height: 275px; 
+    }
+    .mbc-4-right
+    {
+        width: 600px;
+        background-color: black;
+    }
+    .mbc-4-text
+    {
+        width: 460px;
+        color: white;
+        font-size: 15px;
+        margin: 92px 40px;
+    }
+    span
+    {
+        font-weight: bolder;
+    }
+    .main-body-con-5
+    {
+        display: flex;
+        width: 100%;
+        height: 275px;
+    }
+    .mbc-5-left
+    {
+        width: 550px;
+    }
+    .mbc-5-left-text
+    {
+        width: 460px;
+        margin: 30px 80px;
+    }
+    .mbc-5-left-text
+    p
+    {
+        font-size: 17px;
+        color: #961326;
+    }
+    ul
+    {
+        padding-left: 18px;
+    }
+    ul li
+    {
+        margin: 10px 0;
+        font-size: 15px;
+    }
+    .mbc-5-right
+    img
+    {
+        width: 484px;
+        height: 275px; 
+    }
+    .main-body-con-6
+    {
+        margin: 0 auto;
+        width: 100%;
+        height: 120px;
+    }
+    .mbc-6-small-con
+    {
+        margin: 0 35px;
+        padding: 29px 0;
+    }
+    .mbc-6-box
+    {
+        border: solid #961326 1px;
+        width: 950px;
+        height: 60px;
+    }
+    .mbc-6-box
+    p
+    {
+        font-size: 12px;
+        font-weight: lighter;
+        text-align: center;
+        margin: 20px auto;
+        color: rgba(0,0,0,0.5);
+    }
+    .main-footer
+    {
+        width: 100%;
+        height: 72px;
+        background-color: lightgrey;
+    }
+    .main-footer-con
+    {
+        display: flex;
+        padding: 28px 0;
+    }
+    .mfc-left
+    {
+        display: flex;
+        margin-left: 8px;
+    }
+    .mfc-left
+    p
+    {
+        font-size: 12px;
+        margin: 0 2px;
+    }
+    .mfc-left
+    a
+    {
+        text-decoration: none;
+    }
+    .link-1
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .line-1
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .link-2
+    {
+        color: #961326;
+    }
+    .link-3
+    {
+        color: rgba(0,0,0,0.5);
+    }
+    .mfc-right
+    {
+        display: flex;
+        margin-left: 15px;
+    }
+    .facebook,.twitter,.youtube,.instagram
+    {
+        margin: 0 10px;
+    }
+    .head-icon,.main-body-con-3s,.main-body-con-5s,
+    .main-footer-con-1
+    {
+        display: none;
+    }
+}
